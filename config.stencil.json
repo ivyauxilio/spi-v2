@@ -1,0 +1,12 @@
+{
+  "customLayouts": {
+    "brand": {},
+    "category": {},
+    "page": {},
+    "product": {
+      "_customPage.html":"/custom-product-page/"
+    }
+  },
+  "normalStoreUrl": "https://spirits-network4.mybigcommerce.com ",
+  "port": "3030"
+}
